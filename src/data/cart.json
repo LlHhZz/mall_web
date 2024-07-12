@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "iphone 14",
+    "price": 7999,
+    "image": "iPhone14.png",
+    "quantity": 1,
+    "amount": 7999,
+    "size": "紫色",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "title": "苹果",
+    "price": 69.9,
+    "image": "苹果.png",
+    "quantity": 1,
+    "amount": 69.9,
+    "size": "10个",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "title": "香蕉",
+    "price": 14.8,
+    "image": "香蕉.png",
+    "quantity": 1,
+    "amount": 14.8,
+    "size": "1斤",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "title": "MacBook Pro",
+    "price": 15999,
+    "image": "macbook.png",
+    "quantity": 1,
+    "amount": 15999,
+    "size": "深空灰色",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "title": "鼠标",
+    "price": 45,
+    "image": "鼠标.png",
+    "quantity": 1,
+    "amount": 45,
+    "size": "太空黑",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "title": "行李箱",
+    "price": 145,
+    "image": "行李箱.png",
+    "quantity": 1,
+    "amount": 145,
+    "size": "白色",
+    "selected": false
+  },
+  {
+    "id": 7,
+    "title": "苹果手表",
+    "price": 6299,
+    "image": "iwatch.png",
+    "quantity": 1,
+    "amount": 6299,
+    "size": "绿色",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "title": "苹果iPad pro",
+    "price": 6799,
+    "image": "iPad.png",
+    "quantity": 1,
+    "amount": 6799,
+    "size": "银色",
+    "selected": false
+  }
+]
